@@ -99,8 +99,8 @@
                                 <span class="lnr lnr-eye"></span>
                             </div>
                             <article class="text-left">
-                                <h3>NASA-led research on sea-level rise with PIK:</h3>
-                                <h4>Global intercomparison of projected mass loss from ice sheets</h4>
+                                <h3>NASA-led research on sea-level rise:</h3>
+                                <h4>Intercomparison of projected mass loss from ice sheets</h4>
                             </article>
                             <a href="https://www.pik-potsdam.de/en/news/latest-news/nasa-led-research-on-sea-level-rise-with-pik-contribution-global-intercomparison-of-projected-mass-loss-from-ice-sheets"><img src="https://images.unsplash.com/photo-1465175171006-6138edfc03e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE0NTM1OH0&auto=format&fit=crop&w=634&q=80" alt=""></a>
                         </div>
