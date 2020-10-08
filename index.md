@@ -6,8 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-<link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
-<link rel="stylesheet" href="css/pik.css">
+<link rel="stylesheet" href="css/pik2.css">
 </head>
 <body>
     <header>
@@ -99,8 +98,8 @@
                                 <span class="lnr lnr-eye"></span>
                             </div>
                             <article class="text-left">
-                                <h3>NASA-led research on sea-level rise:</h3>
-                                <h4>Intercomparison of projected mass loss from ice sheets</h4>
+                                <h3>NASA-led research on sea-level rise with PIK:</h3>
+                                <h4>Global intercomparison of projected mass loss from ice sheets</h4>
                             </article>
                             <a href="https://www.pik-potsdam.de/en/news/latest-news/nasa-led-research-on-sea-level-rise-with-pik-contribution-global-intercomparison-of-projected-mass-loss-from-ice-sheets"><img src="https://images.unsplash.com/photo-1465175171006-6138edfc03e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjE0NTM1OH0&auto=format&fit=crop&w=634&q=80" alt=""></a>
                         </div>
@@ -186,7 +185,7 @@
                                 </div>
                                 <div class="card lg-custom-card">
                                     <div class="card-img-top">
-                                        <img class="img-fluid" src="https://images.unsplash.com/photo-1465447142348-e9952c393450?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1268&q=80" alt="Carousel 1">
+                                        <img class="img-fluid" src="https://images.unsplash.com/photo-1519852476561-ec618b0183ba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1338&q=80" alt="Carousel 1">
                                     </div>
                                     <div class="card-body">
                                         <h6>Dataset</h6>
@@ -200,20 +199,20 @@
                             <div class="card-deck">
                                 <div class="card lg-custom-card">
                                     <div class="card-img-top">
-                                        <img class="img-fluid" src="https://images.unsplash.com/photo-1470813740244-df37b8c1edcb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80" alt="Carousel 1">
+                                        <img class="img-fluid" src="https://images.unsplash.com/photo-1506918357967-b358ad447c56?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="Carousel 1">
                                     </div>
                                     <div class="card-body">
                                         <h6>Dataset</h6>
-                                        <h3><a href="">Northern Lights Forecast</a></h3>
+                                        <h3><a href="">And Another <br> Data Example</a></h3>
                                     </div>
                                 </div>
                                 <div class="card lg-custom-card">
                                     <div class="card-img-top">
-                                        <img class="img-fluid" src="https://images.unsplash.com/photo-1470813740244-df37b8c1edcb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1951&q=80" alt="Carousel 1">
+                                        <img class="img-fluid" src="https://images.unsplash.com/photo-1475082622110-f0e90ff503ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" alt="Carousel 1">
                                     </div>
                                     <div class="card-body">
                                         <h6>Dataset</h6>
-                                        <h3><a href="">Northern Lights Forecast</a></h3>
+                                        <h3><a href="">Farming Simulation</a></h3>
                                     </div>
                                 </div>
                                 <div class="card lg-custom-card">
@@ -247,7 +246,7 @@
   <div class="card sm-custom-card">
     <img class="card-img-top" src="https://images.unsplash.com/photo-1493329025335-18542a61595f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80" alt="Card image cap">
     <div class="card-body">
-      <h3 class="card-title">Analytics Example</h3>
+      <h3 class="card-title">Analytics Example Link</h3>
     </div>
   </div>
   <div class="card sm-custom-card">
@@ -257,9 +256,9 @@
       </div>
   </div>
   <div class="card sm-custom-card">
-    <img class="card-img-top" src="https://images.unsplash.com/photo-1462331321792-cc44368b8894?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1422&q=80" alt="Card image cap">
+    <img class="card-img-top" src="https://images.unsplash.com/photo-1500531279542-fc8490c8ea4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80" alt="Card image cap">
     <div class="card-body">
-      <h3 class="card-title">Card title</h3>
+      <h3 class="card-title">User Stats Reports</h3>
     </div>
   </div>
 </div>
