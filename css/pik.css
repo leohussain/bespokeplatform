@@ -294,6 +294,10 @@ main {
   margin-top: 0%;
 }
 
+.sm-custom-card .card-body {
+  min-height: 160px;
+}
+
 .buttons .btn {
   background-color: #838584;
 }
@@ -449,6 +453,9 @@ footer .bottom{
         margin-right: 5px;
         margin-left: 0;
     }
+	.navbar .navbar-toggler {
+  display: none;
+}
       
     main {
       padding: 3%;
