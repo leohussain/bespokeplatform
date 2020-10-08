@@ -171,7 +171,7 @@
                                     </div>
                                     <div class="card-body">
                                         <h6>Dataset</h6>
-                                        <h3><a href="https://oasishub.co/dataset/global-tropical-cyclone-exposure-database-tce-dat-postdam-institute-for-climate-impact-research">Tropical Cyclone Exposure</a></h3>
+                                        <h3><a href="https://oasishub.co/dataset/global-tropical-cyclone-exposure-database-tce-dat-postdam-institute-for-climate-impact-research">Tropical Cyclone <br>Exposure</a></h3>
                                     </div>
                                 </div>
                                 <div class="card lg-custom-card">
@@ -180,7 +180,7 @@
                                     </div>
                                     <div class="card-body">
                                         <h6>Dataset</h6>
-                                        <h3><a href="https://h2020insurance.oasishub.co/wp222-agricultural-micro-insurance-tanzania/">AMPLIFY</a></h3>
+                                        <h3><a href="https://h2020insurance.oasishub.co/wp222-agricultural-micro-insurance-tanzania/">AMPLIFY Agriculture <br> Tool</a></h3>
                                     </div>
                                 </div>
                                 <div class="card lg-custom-card">
@@ -212,7 +212,7 @@
                                     </div>
                                     <div class="card-body">
                                         <h6>Dataset</h6>
-                                        <h3><a href="">Farming Simulation</a></h3>
+                                        <h3><a href="">Farming <br> Simulation</a></h3>
                                     </div>
                                 </div>
                                 <div class="card lg-custom-card">
@@ -221,7 +221,7 @@
                                     </div>
                                     <div class="card-body">
                                         <h6>Dataset</h6>
-                                        <h3><a href="">Northern Lights Forecast</a></h3>
+                                        <h3><a href="">Northern Lights <br> Forecast</a></h3>
                                     </div>
                                 </div>
                             </div>
@@ -252,13 +252,13 @@
   <div class="card sm-custom-card">
     <img class="card-img-top" src="https://images.unsplash.com/photo-1586879070755-b560b8aa4b8d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1298&q=80" alt="Card image cap">
     <div class="card-body">
-      <h3 class="card-title">Stats Example</h3>
+      <h3 class="card-title">Stats &amp; Achievements <br> Example</h3>
       </div>
   </div>
   <div class="card sm-custom-card">
     <img class="card-img-top" src="https://images.unsplash.com/photo-1500531279542-fc8490c8ea4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80" alt="Card image cap">
     <div class="card-body">
-      <h3 class="card-title">User Stats Reports</h3>
+      <h3 class="card-title">User Stats Reports <br> Example</h3>
     </div>
   </div>
 </div>
@@ -281,13 +281,13 @@
   <div class="card sm-custom-card">
     <img class="card-img-top" src="https://images.unsplash.com/photo-1586879070755-b560b8aa4b8d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1298&q=80" alt="Card image cap">
     <div class="card-body" style="background-color: #92cece;">
-      <h3 class="card-title">Research Example</h3>
+      <h3 class="card-title">More Research <br> Example</h3>
       </div>
   </div>
   <div class="card sm-custom-card">
     <img class="card-img-top" src="https://images.unsplash.com/photo-1462331321792-cc44368b8894?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1422&q=80" alt="Card image cap">
     <div class="card-body" style="background-color: #92cece;">
-      <h3 class="card-title">Article</h3>
+      <h3 class="card-title">An Article About <br> Algae</h3>
     </div>
   </div>
 </div>
