@@ -12,7 +12,7 @@
 <body>
     <header>
         <div class="top">
-            <a href="https://www.pik-potsdam.de/en"><img src="https://www.pik-potsdam.de/~schewe/logo/b_en_web.png" class="logo"></a>
+            <a href="https://www.pik-potsdam.de/en"><img src="img/pik.png" class="logo"></a>
             <a href="https://www.oasishub.co"><img src="https://oasishub.co/media/images/poweredbyOH.original.png" class="ohlogo"></a>
             <img src="https://images.unsplash.com/photo-1526571921637-50f912df64d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=676&q=80" class="berlin"> 
             <h1> Welcome to the PIK Data Portal </h1>
